@@ -50,12 +50,4 @@ I’m a cybersecurity / developer enthusiast working on payload execution and ex
   <img src="https://img.shields.io/badge/Dirb-007ACC?style=for-the-badge" />
 </p>
 
-Showcase of core skills and pentesting tools (badges with logos).
 
-🔭 Projects & Repositories
-
-Here are some of my public repos (auto-updated via workflow below):
-
-(this will be replaced by the action)
-
-🏆 Trophies & Activity
