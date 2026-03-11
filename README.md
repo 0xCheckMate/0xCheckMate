@@ -1,6 +1,6 @@
 Hi 👋 I'm 0xCheckMate
 
-I’m a cybersecurity / developer enthusiast working on payload execution and exploits. Currently building tools and proof-of-concepts; writeups coming soon.
+I’m a pentester / developer working on payload execution and exploits. Currently building tools and proof-of-concepts; writeups coming soon.
 
 ## 📊 GitHub Quick Stats
 
